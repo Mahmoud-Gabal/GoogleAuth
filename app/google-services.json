@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922172205310",
+    "project_id": "gosignin-f8e18",
+    "storage_bucket": "gosignin-f8e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922172205310:android:6bab49c68be87ffa525daf",
+        "android_client_info": {
+          "package_name": "com.example.gosignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922172205310-m7ll3dhcn9u5mhg9bed3np4j54feul4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gosignin",
+            "certificate_hash": "855be44d44b9d96ffe50db1918837a4e0d48932f"
+          }
+        },
+        {
+          "client_id": "922172205310-ksg1b7o6gh24g5ah04se4nup82nvh4o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbYj9HAf6ps2eHKEfkH400Gzx2Lg63Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922172205310-ksg1b7o6gh24g5ah04se4nup82nvh4o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

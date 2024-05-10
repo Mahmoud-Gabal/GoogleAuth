@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoSignIn</string>
+<!--    we get web client id from google provider in firebase nooooooot json file here-->
+    <string name="web_client_id">922172205310-ksg1b7o6gh24g5ah04se4nup82nvh4o5.apps.googleusercontent.com</string>
+</resources>
